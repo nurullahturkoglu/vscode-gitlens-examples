@@ -7,3 +7,7 @@ function register(){
 function login(){
     console.log("login function")
 }
+
+function findByEmail(){
+    console.log("find user by email")
+}
